@@ -1,0 +1,439 @@
+[
+  {
+    "id": "candidate_001",
+    "current_role": "B2B Software Account Executive",
+    "location": "Far Harbor",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 5,
+    "experience": [
+      "Owned discovery, negotiation and closing for B2B software subscriptions",
+      "Explained automation products to operations teams"
+    ],
+    "skills": [
+      "B2B sales",
+      "closing",
+      "technology solutions"
+    ]
+  },
+  {
+    "id": "candidate_002",
+    "current_role": "Data Platform Strategist",
+    "location": "North Quay",
+    "work_preferences": [
+      "hybrid"
+    ],
+    "years_experience": 7,
+    "experience": [
+      "Wrote data-platform strategy presentations using SQL and incident terminology",
+      "Observed incident meetings but never held on-call responsibility"
+    ],
+    "skills": [
+      "SQL",
+      "incidents",
+      "on-call",
+      "data pipelines"
+    ]
+  },
+  {
+    "id": "candidate_003",
+    "current_role": "Library Systems Rollout Coordinator",
+    "location": "Easthaven",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 5,
+    "experience": [
+      "Led staged library-software rollouts across six sites",
+      "Mapped user workflows and mitigated launch risks"
+    ],
+    "skills": [
+      "onboarding",
+      "workflow mapping",
+      "launch planning"
+    ]
+  },
+  {
+    "id": "candidate_004",
+    "current_role": "Software Quality Engineer",
+    "location": "Far Harbor",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 6,
+    "experience": [
+      "Tested accessibility with screen readers and produced reproducible defect reports",
+      "Coached teams on keyboard navigation"
+    ],
+    "skills": [
+      "accessibility testing",
+      "screen readers",
+      "defect reporting"
+    ]
+  },
+  {
+    "id": "candidate_005",
+    "current_role": "Workforce Reporting Analyst",
+    "location": "Port Meridian",
+    "work_preferences": [
+      "hybrid"
+    ],
+    "years_experience": 4,
+    "experience": [
+      "Built workforce dashboards after reconciling source inconsistencies",
+      "Presented limitations and actions to operations leaders"
+    ],
+    "skills": [
+      "reporting",
+      "data validation",
+      "stakeholder communication"
+    ]
+  },
+  {
+    "id": "candidate_006",
+    "current_role": "Security Content Manager",
+    "location": "Westbridge",
+    "work_preferences": [
+      "onsite"
+    ],
+    "years_experience": 8,
+    "experience": [
+      "Authored alert-triage articles using incident-response vocabulary",
+      "Never triaged live alerts or escalated an active incident"
+    ],
+    "skills": [
+      "security alerts",
+      "incident escalation",
+      "response records"
+    ]
+  },
+  {
+    "id": "candidate_007",
+    "current_role": "Service Resolution Coordinator",
+    "location": "Southbay",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 6,
+    "experience": [
+      "Owned difficult subscription-software cases through root-cause resolution",
+      "Coached peers and wrote customer-facing incident updates"
+    ],
+    "skills": [
+      "escalation leadership",
+      "root-cause analysis",
+      "coaching"
+    ]
+  },
+  {
+    "id": "candidate_008",
+    "current_role": "Inventory Optimization Associate",
+    "location": "North Quay",
+    "work_preferences": [
+      "hybrid"
+    ],
+    "years_experience": 5,
+    "experience": [
+      "Modeled stock constraints from planning-system extracts",
+      "Explained service-level tradeoffs to warehouse managers"
+    ],
+    "skills": [
+      "inventory modeling",
+      "planning systems"
+    ]
+  },
+  {
+    "id": "candidate_009",
+    "current_role": "Study Operations Specialist",
+    "location": "Easthaven",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 5,
+    "experience": [
+      "Coordinated research participant scheduling with consent records",
+      "Restricted access to participant information and summarized process failures"
+    ],
+    "skills": [
+      "research operations",
+      "consent handling",
+      "privacy"
+    ]
+  },
+  {
+    "id": "candidate_010",
+    "current_role": "Field Workshop Facilitator",
+    "location": "Cedar Point",
+    "work_preferences": [
+      "onsite"
+    ],
+    "years_experience": 6,
+    "experience": [
+      "Designed hands-on equipment workshops for technicians",
+      "Checked competency through practical demonstrations"
+    ],
+    "skills": [
+      "technical training",
+      "competency assessment"
+    ]
+  },
+  {
+    "id": "candidate_011",
+    "current_role": "AI Training Sales Advisor",
+    "location": "Port Meridian",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 2,
+    "experience": [
+      "Assisted product demos and entered leads in a CRM",
+      "Did not own negotiation or closing"
+    ],
+    "skills": [
+      "AI training",
+      "sales",
+      "closing"
+    ]
+  },
+  {
+    "id": "candidate_012",
+    "current_role": "Production Data Engineer",
+    "location": "North Quay",
+    "work_preferences": [
+      "hybrid"
+    ],
+    "years_experience": 5,
+    "experience": [
+      "Owned rotating on-call for SQL pipelines",
+      "Restored failed jobs and led post-incident reviews"
+    ],
+    "skills": [
+      "SQL",
+      "on-call",
+      "pipeline recovery"
+    ]
+  },
+  {
+    "id": "candidate_013",
+    "current_role": "Implementation Project Manager",
+    "location": "Easthaven",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 8,
+    "experience": [
+      "Managed procurement projects but did not lead software onboarding or go-live",
+      "Tracked budgets and meeting notes"
+    ],
+    "skills": [
+      "project management",
+      "software onboarding"
+    ]
+  },
+  {
+    "id": "candidate_014",
+    "current_role": "Accessibility Test Practitioner",
+    "location": "Cedar Point",
+    "work_preferences": [
+      "onsite"
+    ],
+    "years_experience": 3,
+    "experience": [
+      "Used screen readers and keyboard navigation in release testing",
+      "Reproduced and documented accessibility failures"
+    ],
+    "skills": [
+      "accessibility testing",
+      "defect reporting"
+    ]
+  },
+  {
+    "id": "candidate_015",
+    "current_role": "Senior Analytics Director",
+    "location": "Port Meridian",
+    "work_preferences": [
+      "hybrid"
+    ],
+    "years_experience": 12,
+    "experience": [
+      "Approved workforce dashboards prepared by others",
+      "Provided executive summaries but did not validate underlying data"
+    ],
+    "skills": [
+      "analytics leadership",
+      "workforce metrics"
+    ]
+  },
+  {
+    "id": "candidate_016",
+    "current_role": "Junior People Data Specialist",
+    "location": "Port Meridian",
+    "work_preferences": [
+      "hybrid"
+    ],
+    "years_experience": 4,
+    "experience": [
+      "Personally reconciled inconsistent workforce data across systems",
+      "Built reports and explained uncertainty to HR leaders"
+    ],
+    "skills": [
+      "data quality",
+      "reporting"
+    ]
+  },
+  {
+    "id": "candidate_017",
+    "current_role": "Incident Response Analyst",
+    "location": "Westbridge",
+    "work_preferences": [
+      "onsite"
+    ],
+    "years_experience": 4,
+    "experience": [
+      "Triaged live security alerts and documented escalation evidence",
+      "Maintained incident handoff records"
+    ],
+    "skills": [
+      "alert triage",
+      "incident escalation"
+    ]
+  },
+  {
+    "id": "candidate_018",
+    "current_role": "SaaS Support Agent",
+    "location": "Southbay",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 2,
+    "experience": [
+      "Handled routine support tickets using a scripted FAQ",
+      "Escalated complex cases to a separate team"
+    ],
+    "skills": [
+      "SaaS support",
+      "escalations",
+      "root cause"
+    ]
+  },
+  {
+    "id": "candidate_019",
+    "current_role": "Distribution Capacity Planner",
+    "location": "North Quay",
+    "work_preferences": [
+      "hybrid"
+    ],
+    "years_experience": 6,
+    "experience": [
+      "Balanced warehouse capacity with stock constraints using planning-system data",
+      "Presented tradeoffs to operations"
+    ],
+    "skills": [
+      "capacity planning",
+      "inventory"
+    ]
+  },
+  {
+    "id": "candidate_020",
+    "current_role": "Research Programs Lead",
+    "location": "Far Harbor",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 6,
+    "experience": [
+      "Managed remote study scheduling and consent checks",
+      "Improved access controls for study records"
+    ],
+    "skills": [
+      "research coordination",
+      "data protection"
+    ]
+  },
+  {
+    "id": "candidate_021",
+    "current_role": "Classroom Learning Designer",
+    "location": "Cedar Point",
+    "work_preferences": [
+      "onsite"
+    ],
+    "years_experience": 5,
+    "experience": [
+      "Designed general classroom lectures",
+      "Has not assessed field technicians through practical exercises"
+    ],
+    "skills": [
+      "training design",
+      "technical workshops"
+    ]
+  },
+  {
+    "id": "candidate_022",
+    "current_role": "Technical Sales Closer",
+    "location": "Port Meridian",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 4,
+    "experience": [
+      "Sold industrial automation contracts and owned final negotiation",
+      "Translated complex technical use cases for buyers"
+    ],
+    "skills": [
+      "technical sales",
+      "closing"
+    ]
+  },
+  {
+    "id": "candidate_023",
+    "current_role": "Data Pipeline Developer",
+    "location": "North Quay",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 5,
+    "experience": [
+      "Built robust SQL pipeline jobs and restored production failures",
+      "Cannot attend the required North Quay hybrid days"
+    ],
+    "skills": [
+      "SQL",
+      "pipeline operations"
+    ]
+  },
+  {
+    "id": "candidate_024",
+    "current_role": "QA Automation Specialist",
+    "location": "Cedar Point",
+    "work_preferences": [
+      "onsite"
+    ],
+    "years_experience": 4,
+    "experience": [
+      "Built automated regression suites",
+      "Lists screen-reader testing but work examples show no accessibility testing"
+    ],
+    "skills": [
+      "automation",
+      "screen-reader testing"
+    ]
+  },
+  {
+    "id": "candidate_025",
+    "current_role": "Customer Success Operations Lead",
+    "location": "Easthaven",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 7,
+    "experience": [
+      "Coordinated software launches and managed stakeholder risk logs",
+      "Mapped cross-team onboarding processes"
+    ],
+    "skills": [
+      "software onboarding",
+      "go-live risk"
+    ]
+  }
+]

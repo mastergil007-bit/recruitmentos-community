@@ -1,0 +1,72 @@
+[
+  {
+    "case_id": "A",
+    "job_id": "job_001",
+    "candidate_id": "candidate_001",
+    "scenario": "Bridgeable Gap",
+    "expected_behavior": "Direct AI training sales is missing; B2B technology sales and owned closing should prevent automatic rejection. Explain residual domain uncertainty."
+  },
+  {
+    "case_id": "B",
+    "job_id": "job_002",
+    "candidate_id": "candidate_002",
+    "scenario": "Critical Gap",
+    "expected_behavior": "Keyword overlap must not hide the absence of on-call ownership; the critical gap should materially reduce fit."
+  },
+  {
+    "case_id": "C",
+    "job_id": "job_003",
+    "candidate_id": "candidate_003",
+    "scenario": "Transferable Experience",
+    "expected_behavior": "Different title, but staged rollouts, workflow mapping and launch-risk ownership support a strong professional assessment."
+  },
+  {
+    "case_id": "D",
+    "job_id": "job_004",
+    "candidate_id": "candidate_004",
+    "scenario": "Location Conflict",
+    "expected_behavior": "Accessibility evidence is strong; onsite Cedar Point conflicts with remote-only preference and distant location. Separate the two fits."
+  },
+  {
+    "case_id": "E",
+    "job_id": "job_006",
+    "candidate_id": "candidate_006",
+    "scenario": "Keyword Rich / Reality Weak",
+    "expected_behavior": "Security vocabulary is extensive but live alert triage is absent; avoid a high result from terms alone."
+  },
+  {
+    "case_id": "F",
+    "job_id": "job_007",
+    "candidate_id": "candidate_007",
+    "scenario": "Keyword Light / Reality Strong",
+    "expected_behavior": "Subscription case ownership, root-cause work and peer coaching support fit even without the exact job title."
+  },
+  {
+    "case_id": "G",
+    "job_id": "job_002",
+    "candidate_id": "candidate_012",
+    "scenario": "Critical Requirement With Evidence",
+    "expected_behavior": "On-call ownership is supported by specific production recovery history; recognize this critical capability."
+  },
+  {
+    "case_id": "H",
+    "job_id": "job_001",
+    "candidate_id": "candidate_022",
+    "scenario": "Adjacent Industry",
+    "expected_behavior": "Industrial automation sales and closing transfer to technical solution sales; disclose the remaining learning-product gap."
+  },
+  {
+    "case_id": "I",
+    "job_id": "job_009",
+    "candidate_id": "candidate_020",
+    "scenario": "Remote Compatibility",
+    "expected_behavior": "Distant location should not penalize a fully remote role when remote preference and research operations align."
+  },
+  {
+    "case_id": "J",
+    "job_id": "job_004",
+    "candidate_id": "candidate_024",
+    "scenario": "Unsupported Claim",
+    "expected_behavior": "Listed screen-reader testing lacks a work example; mark accessibility evidence as weak despite onsite compatibility."
+  }
+]

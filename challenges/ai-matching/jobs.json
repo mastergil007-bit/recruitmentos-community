@@ -1,0 +1,212 @@
+[
+  {
+    "id": "job_001",
+    "title": "AI Enablement Sales Specialist",
+    "location": "Port Meridian",
+    "work_mode": "remote",
+    "must_haves": [
+      "2+ years B2B technology sales",
+      "Owned closing responsibility",
+      "Sold learning or AI-enabled products"
+    ],
+    "nice_to_haves": [
+      "Workshop facilitation"
+    ],
+    "responsibilities": [
+      "Discover needs and close solution sales",
+      "Explain technical value without overstating claims"
+    ],
+    "critical_requirements": [
+      "Owned closing responsibility"
+    ]
+  },
+  {
+    "id": "job_002",
+    "title": "Data Platform Reliability Engineer",
+    "location": "North Quay",
+    "work_mode": "hybrid",
+    "must_haves": [
+      "Production incident response",
+      "SQL data pipeline operations",
+      "On-call ownership"
+    ],
+    "nice_to_haves": [
+      "Cloud certification"
+    ],
+    "responsibilities": [
+      "Restore failed pipelines",
+      "Lead incident reviews"
+    ],
+    "critical_requirements": [
+      "On-call ownership"
+    ]
+  },
+  {
+    "id": "job_003",
+    "title": "Customer Implementation Lead",
+    "location": "Easthaven",
+    "work_mode": "remote",
+    "must_haves": [
+      "Led multi-stage software onboarding",
+      "Mapped customer workflows",
+      "Managed go-live risks"
+    ],
+    "nice_to_haves": [
+      "Healthcare exposure"
+    ],
+    "responsibilities": [
+      "Coordinate launch plans",
+      "Resolve integration blockers"
+    ],
+    "critical_requirements": [
+      "Managed go-live risks"
+    ]
+  },
+  {
+    "id": "job_004",
+    "title": "Accessibility QA Analyst",
+    "location": "Cedar Point",
+    "work_mode": "onsite",
+    "must_haves": [
+      "Hands-on accessibility testing",
+      "Documented reproducible defects",
+      "Screen-reader test practice"
+    ],
+    "nice_to_haves": [
+      "Automation scripting"
+    ],
+    "responsibilities": [
+      "Test user journeys",
+      "Report actionable defects"
+    ],
+    "critical_requirements": [
+      "Hands-on accessibility testing"
+    ]
+  },
+  {
+    "id": "job_005",
+    "title": "Workforce Analytics Partner",
+    "location": "Port Meridian",
+    "work_mode": "hybrid",
+    "must_haves": [
+      "Built decision-ready workforce reports",
+      "Validated data quality",
+      "Explained findings to stakeholders"
+    ],
+    "nice_to_haves": [
+      "Forecasting"
+    ],
+    "responsibilities": [
+      "Define metrics",
+      "Present careful recommendations"
+    ],
+    "critical_requirements": [
+      "Validated data quality"
+    ]
+  },
+  {
+    "id": "job_006",
+    "title": "Security Operations Coordinator",
+    "location": "Westbridge",
+    "work_mode": "onsite",
+    "must_haves": [
+      "Triaged security alerts",
+      "Escalated incidents with evidence",
+      "Maintained response records"
+    ],
+    "nice_to_haves": [
+      "Threat-hunting"
+    ],
+    "responsibilities": [
+      "Coordinate incident handoffs",
+      "Audit response records"
+    ],
+    "critical_requirements": [
+      "Triaged security alerts"
+    ]
+  },
+  {
+    "id": "job_007",
+    "title": "Technical Support Escalation Lead",
+    "location": "Southbay",
+    "work_mode": "remote",
+    "must_haves": [
+      "Resolved complex SaaS escalations",
+      "Led root-cause communication",
+      "Coached support agents"
+    ],
+    "nice_to_haves": [
+      "API troubleshooting"
+    ],
+    "responsibilities": [
+      "Own escalated cases",
+      "Improve support playbooks"
+    ],
+    "critical_requirements": [
+      "Resolved complex SaaS escalations"
+    ]
+  },
+  {
+    "id": "job_008",
+    "title": "Supply Planning Systems Analyst",
+    "location": "North Quay",
+    "work_mode": "hybrid",
+    "must_haves": [
+      "Modeled inventory constraints",
+      "Used planning system data",
+      "Explained tradeoffs to operations"
+    ],
+    "nice_to_haves": [
+      "Python"
+    ],
+    "responsibilities": [
+      "Review forecast exceptions",
+      "Improve planning decisions"
+    ],
+    "critical_requirements": [
+      "Modeled inventory constraints"
+    ]
+  },
+  {
+    "id": "job_009",
+    "title": "Product Research Operations Lead",
+    "location": "Easthaven",
+    "work_mode": "remote",
+    "must_haves": [
+      "Managed research recruitment workflows",
+      "Protected participant data",
+      "Synthesized operational findings"
+    ],
+    "nice_to_haves": [
+      "Survey design"
+    ],
+    "responsibilities": [
+      "Coordinate studies",
+      "Maintain consent records"
+    ],
+    "critical_requirements": [
+      "Protected participant data"
+    ]
+  },
+  {
+    "id": "job_010",
+    "title": "Field Service Training Designer",
+    "location": "Cedar Point",
+    "work_mode": "onsite",
+    "must_haves": [
+      "Designed hands-on technical training",
+      "Assessed practical competency",
+      "Worked with field technicians"
+    ],
+    "nice_to_haves": [
+      "Video authoring"
+    ],
+    "responsibilities": [
+      "Build training exercises",
+      "Evaluate technician readiness"
+    ],
+    "critical_requirements": [
+      "Assessed practical competency"
+    ]
+  }
+]
