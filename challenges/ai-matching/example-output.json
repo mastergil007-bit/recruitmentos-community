@@ -1,0 +1,31 @@
+{
+  "match_score": 82,
+  "recommendation": "PASS",
+  "must_haves_met": [
+    "2+ years B2B technology sales",
+    "Owned closing responsibility"
+  ],
+  "must_haves_missing": [
+    "Direct learning or AI-enabled product sales"
+  ],
+  "location_fit": {
+    "status": "COMPATIBLE",
+    "reason": "The job is remote and the candidate prefers remote work; distance does not create an onsite conflict."
+  },
+  "compensating_evidence": [
+    "Owned discovery, negotiation and closing for B2B software subscriptions",
+    "Explained automation products to operations teams"
+  ],
+  "critical_gaps": [],
+  "evidence": [
+    {
+      "requirement": "B2B technology sales",
+      "candidate_evidence": "Owned discovery, negotiation and closing for B2B software subscriptions."
+    },
+    {
+      "requirement": "Sold learning or AI-enabled products",
+      "candidate_evidence": "Adjacent automation-product sales is documented, but direct learning or AI-enabled sales is not."
+    }
+  ],
+  "summary": "Strong adjacent technical-sales fit with a domain gap. Worth further human review under the challenge reference threshold."
+}

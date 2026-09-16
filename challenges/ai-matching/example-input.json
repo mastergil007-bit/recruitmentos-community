@@ -1,0 +1,41 @@
+{
+  "job": {
+    "id": "job_001",
+    "title": "AI Enablement Sales Specialist",
+    "location": "Port Meridian",
+    "work_mode": "remote",
+    "must_haves": [
+      "2+ years B2B technology sales",
+      "Owned closing responsibility",
+      "Sold learning or AI-enabled products"
+    ],
+    "nice_to_haves": [
+      "Workshop facilitation"
+    ],
+    "responsibilities": [
+      "Discover needs and close solution sales",
+      "Explain technical value without overstating claims"
+    ],
+    "critical_requirements": [
+      "Owned closing responsibility"
+    ]
+  },
+  "candidate": {
+    "id": "candidate_001",
+    "current_role": "B2B Software Account Executive",
+    "location": "Far Harbor",
+    "work_preferences": [
+      "remote"
+    ],
+    "years_experience": 5,
+    "experience": [
+      "Owned discovery, negotiation and closing for B2B software subscriptions",
+      "Explained automation products to operations teams"
+    ],
+    "skills": [
+      "B2B sales",
+      "closing",
+      "technology solutions"
+    ]
+  }
+}
